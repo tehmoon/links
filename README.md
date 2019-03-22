@@ -31,3 +31,12 @@ My link repository
   - [https://www.google.com/search?q=blackhat+wmi&oq=blackhat+wmi&aqs=chrome..69i57.2880j0j1&sourceid=chrome&ie=UTF-8](pdf/c4fc85d181d2eb369c04641c37703476bfde0744e30f3145158eb8086b338908.pdf)
   - [https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/](pdf/c7aae3c0477be34111b987dec323052a5224a647f7189c345853b4d3f379cd7a.pdf)
   - [https://medium.com/@_bl4de/how-to-perform-the-static-analysis-of-website-source-code-with-the-browser-the-beginners-bug-d674828c8d9a](pdf/1bf920592c493b28a381e83cd4ce382055056c12e83ad83a66b97aacf1d4e65b.pdf)
+
+### Go:
+  - [https://blog.golang.org/c-go-cgo](pdf/ca9791ac32ee9b5afb766b4af054289fb6004c206f8ed54cb47019815204e258.pdf)
+  - [https://golang.org/cmd/cgo/#hdr-Go_references_to_C](pdf/d798cd2deb3c19dff34319ca9e26ffcd39c1315b3d6107caa93b29df1163e1c5.pdf)
+  - [https://gist.github.com/zchee/b9c99695463d8902cd33](pdf/01f65377082ec7d9c43da4fc664eb5197bee4294b2036eecd3b06938a48d925b.pdf)
+  - [https://golang.org/pkg/unsafe/#Pointer](pdf/e81a45f0ab00610c4c0cc479559eff881ed682361902f70f59748bc07469c44f.pdf)
+  - [https://medium.com/@liamkelly17/working-with-packed-c-structs-in-cgo-224a0a3b708b](pdf/d35c430cee62830b37e7749cf625a017c314142bf0532c0696c9bbf1d6c0bb0f.pdf)
+  - [https://dev.to/mattn/call-go-function-from-c-function-1n3](pdf/4ec97398d4ff07c8038f0d221325e7f87ad368623d606433426093985a9433f5.pdf)
+
