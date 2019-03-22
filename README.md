@@ -38,5 +38,3 @@ My link repository
   - [https://gist.github.com/zchee/b9c99695463d8902cd33](pdf/01f65377082ec7d9c43da4fc664eb5197bee4294b2036eecd3b06938a48d925b.pdf)
   - [https://golang.org/pkg/unsafe/#Pointer](pdf/e81a45f0ab00610c4c0cc479559eff881ed682361902f70f59748bc07469c44f.pdf)
   - [https://medium.com/@liamkelly17/working-with-packed-c-structs-in-cgo-224a0a3b708b](pdf/d35c430cee62830b37e7749cf625a017c314142bf0532c0696c9bbf1d6c0bb0f.pdf)
-  - [https://dev.to/mattn/call-go-function-from-c-function-1n3](pdf/4ec97398d4ff07c8038f0d221325e7f87ad368623d606433426093985a9433f5.pdf)
-
